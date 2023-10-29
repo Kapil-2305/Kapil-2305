@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Kapil Paliwal and I'm a Mern Stack Developer, from India.</h2>
+<h2 align="center">👋 Hello, I'm Kapil Paliwal.</h2>
 
 ###
 
